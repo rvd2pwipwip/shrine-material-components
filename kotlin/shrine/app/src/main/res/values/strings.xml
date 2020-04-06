@@ -2,6 +2,7 @@
     <string name="shr_app_name">Shrine</string>
     <string name="shr_hint_username">Username</string>
     <string name="shr_hint_password">Password</string>
+    <string name="shr_help_password">Password must be 8 characters or more</string>
     <string name="shr_button_next">Next</string>
     <string name="shr_button_cancel">Cancel</string>
     <string name="shr_error_password">Password must contain at least 8 characters.</string>
